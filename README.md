@@ -1,3 +1,6 @@
+#hello-world
+I'm trying to learn how to use github
+
 # Built application files
 *.apk
 *.ap_
