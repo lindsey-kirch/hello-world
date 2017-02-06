@@ -5,8 +5,6 @@ I'm trying to learn how to use github
 *.apk
 *.ap_
 
-# Files for the ART/Dalvik VM
-*.dex
 
 # Java class files
 *.class
